@@ -1,0 +1,15 @@
+Task: Debug JavaScript TypeError.
+
+Context: Node.js v18 script processing user data.
+
+**Code:** [Snippet causing error]
+
+**Error Message:** [Full TypeError stack trace]
+
+**Expected Behavior:** [Describe correct outcome]
+
+**Observed Behavior:** [Describe error]
+
+**Question:** What is causing this TypeError and how can I safely access the property?
+
+**Format:** Explain the cause and provide corrected code.
