@@ -1,0 +1,15 @@
+Task: Explain this [Language] code snippet.
+
+Context: [Where did you find this code? What's the overall goal?]
+
+**Code Snippet:**
+
+```[language]
+
+[Paste code here]
+
+Request: Explain [Specific aspect, e.g., what the overall function does, the purpose of a specific line/block, the algorithm used].
+
+Audience: [e.g., Explain like I'm a beginner, Provide a high-level overview, Detail the technical nuances]
+
+Format: [e.g., Step-by-step explanation, Bullet points, High-level summary]
