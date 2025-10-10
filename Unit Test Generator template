@@ -1,0 +1,16 @@
+Task: Generate unit tests for the provided [Language] [function/class] using the [Testing Framework, e.g., pytest, unittest, Jest].
+
+**Code to Test:**
+
+```[language]
+
+[Paste function or class code here]
+
+Requirements: Generate test cases covering:
+
+[Valid input scenario 1]
+[Valid input scenario 2]
+[Edge case scenario 1, e.g., empty input, zero value]
+[Edge case scenario 2, e.g., boundary value]
+[Invalid input scenario, e.g., wrong type, null input] - test for expected error/exception.
+Format: Provide the complete test code file.
