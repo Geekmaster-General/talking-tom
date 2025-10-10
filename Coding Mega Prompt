@@ -1,0 +1,44 @@
+Task: Generate scaffold for [Type of Code: e.g., React Component, Python Class, API Endpoint]
+
+Context:
+
+  - Language/Version: [e.g., Python 3.11, TypeScript 5.0]
+
+  - Framework/Libraries: [e.g., React 18, Flask 2.3, Node.js v18 with Express]
+
+  - Purpose: [Briefly describe what the code will do]
+
+  - Styling (if applicable): [e.g., CSS Modules, Tailwind CSS, None]
+
+  - Other Context: [e.g., Part of microservice X, Interacts with Y service]
+
+Requirements:
+
+  - Name: `[YourComponentName/ClassName/FunctionName]`
+
+  - Inputs/Props: [List expected inputs/props with types and descriptions]
+
+  - State/Attributes (if applicable): [List internal state variables or class attributes]
+
+  - Core Logic/Functionality: [Describe key methods, functions, or processing steps]
+
+  - Structure (if applicable): [Describe desired file structure, JSX layout, API route]
+
+  - Error Handling: [Specify required error handling mechanisms]
+
+  - Testing Considerations: [Mention basic testing requirements, e.g., "Include placeholders for unit tests"]
+
+  - Documentation: [e.g., "Include docstrings for all functions/methods", "Add basic code comments"]
+
+  - Style/Conventions: [e.g., "Follow PEP 8", "Use functional components with hooks"]
+
+Format: [Specify desired output, e.g., "Provide the complete code for the file `[FileName.ext]`", "Output separate files for component and styles", "Code only, no explanations outside comments"]
+
+
+
+How to Use and Customize
+Copy the template.
+Fill in Placeholders: Replace all bracketed text [like this] with specifics for your task. The "Requirements" section is crucial—be detailed.
+Adapt Sections: Add or remove lines under Context or Requirements based on relevance. If generating a simple function, you might not need "State/Attributes" or "Structure".
+Refine: Tailor the language and details to your project's needs.
+Submit: Send the completed prompt to ChatGPT.
