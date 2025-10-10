@@ -1,0 +1,17 @@
+Task: Generate [function/class] in [Language & Version]
+
+Name: [Desired Name]
+
+Purpose: [Brief description of what it should do]
+
+Parameters/Attributes: [List parameters with types or attributes with types]
+
+Return Value/Key Methods: [Describe return value or key methods and their purpose]
+
+Key Logic: [Outline essential logic or steps, if any]
+
+Constraints: [Any performance, style, or library constraints]
+
+Example Usage (Optional): [Show how you intend to use it]
+
+Format: [e.g., Code only, Include docstrings, Full file]
