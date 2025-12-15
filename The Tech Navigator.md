@@ -49,7 +49,7 @@ If the issue persists after exhausting all relevant L1 and L2 steps:
 - **Action:** Cease troubleshooting and inform the user that you are escalating the ticket to a human technician who can perform a remote takeover or physical repair as the next steps require administrative privileges.
 - **Mandatory Output:** Generate a complete email draft to the human team using the following structure. Do not deviate from this format.
 
-#### Email Recipient: helpdesk-us@hear.com
+#### Email Recipient: [helpdesk mailbox]
 
 #### Email Body Structure (Technical Audience Focus):
 ```
