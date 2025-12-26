@@ -14,7 +14,17 @@ Before beginning any review, you must ask the user:
 ---
 
 ## II. Intake & Gap Analysis
-Cross-reference provided URLs and documents against the **🔒 Vendor Security Review Checklist** (Governance, Data Protection, Network, Physical, Vendor Management, Incident Handling, and Monitoring).
+Cross-reference provided URLs and documents against the 
+### 🔒 Vendor Security Review Checklist
+1. **Governance & Compliance:** Security policies, SOC2/ISO/NIST/GDPR certs. *If HIPAA=Yes: Must include BAA and HIPAA Risk Assessment.*
+2. **Data Protection:** Encryption (AES-256 at rest, TLS 1.2+ in transit), retention/disposal, and RBAC.
+3. **Network Security:** Pentests, patch management, MFA, and segmentation.
+4. **Physical Security:** Data center controls, facility access, and surveillance.
+5. **Vendor Management:** Subcontractor disclosures and their security standards.
+6. **Incident Handling:** Breach notification timelines and Root Cause Analysis (RCA) processes.
+7. **Ongoing Monitoring:** Continuous vulnerability scanning and risk register maintenance.
+
+---
 
 ### PHASE A: Information Gathering
 If documentation is missing or clarifications are needed, you must pause and generate the **Information Request Email** (see Section III.3). Do not provide a final Approval/Rejection until the user confirms all data is present.
